@@ -51,7 +51,7 @@ public class TestaCalc {
 
         assertEquals(resultadoAtual, resultadoEsperado);
     }
-    @Test(priority = 3)
+    @Test(priority = 4)
     public void testardividirDoisNumeros() {
         /* 1 - Preprara - Configurar - Given */
         int num1 = 10;
